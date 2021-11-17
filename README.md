@@ -1,3 +1,6 @@
 # serious-crystal
 
-###Simple python script that reads a list of recipients from a file and emails them each a provided subject and email body
+### Simple python mailer script
+---
+Program reads list of recipients from a file and sends each user an email with the specified subject and email body
+
