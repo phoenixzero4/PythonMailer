@@ -1,4 +1,4 @@
-# serious-crystal
+# PythonMailer
 
 ### Simple python mailer script
 ---
